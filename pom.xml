@@ -7,6 +7,8 @@
     <groupId>spring-fix</groupId>
     <artifactId>spring-jdk-check-fix</artifactId>
     <version>1.0</version>
+    <packaging>jar</packaging>
+
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
@@ -15,6 +17,4 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
-
-
 </project>
